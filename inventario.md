@@ -5,3 +5,4 @@ componenti:
     processori
     schede_madri
 periferiche:
+    mouse
