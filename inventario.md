@@ -1,4 +1,5 @@
 2079241 
 2068235
-processori
-schede_madri
+componenti:
+    processori
+    schede_madri
