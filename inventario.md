@@ -4,3 +4,4 @@ ELETTRONICA PADOVANA
 componenti:
     processori
     schede_madri
+periferiche:
